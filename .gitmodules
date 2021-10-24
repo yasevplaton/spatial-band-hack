@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/toren332/HACK2.git
+[submodule "client"]
+	path = client
+	url = https://github.com/yasevplaton/spatial-band-6-task-frontend.git
